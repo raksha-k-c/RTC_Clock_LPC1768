@@ -24,7 +24,7 @@ This project demonstrates a Real-Time Clock (RTC) implemented using the LPC1768 
 
 ## 📁 Files Included
 
-- `rtc_clock.c` → Main program code  
+- `rtci.c` → Main program code  
 - UART and RTC initialization and time display
 
 ---
